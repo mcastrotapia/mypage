@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+  <div class="header">
+  <h1>Matias Castro Tapia</h1>
+  <p>Welcome to my website!</p>
+  </div>
+ <!--<h1>Matias Castro Tapia</h1>-->
+  <!--<p>Welcome to my website!</p>-->
+  <body style="background-color: #00FFFF">
+  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .header {
+  padding: 80px; /* some padding */
+  text-align: center; /* center the text */
+  background: #1abc9c; /* green background */
+  color: white; /* white text color */
+}
+
+/* Increase the font size of the <h1> element */
+.header h1 {
+  font-size: 40px;
+}
+  <!--<button type="button" onclick="alert('You pressed the button!')">Click me!</button>-->
+</body>
+</html>
